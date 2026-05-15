@@ -242,5 +242,5 @@ def search_web(query: str):
 
 ## 👨‍🎓 Auteur
 
-**Étudiant HESTIM**  
-TP Intelligence Artificielle Distribuée — 2024/2025
+fatima ezzahra bougsissa
+TP Intelligence Artificielle Distribuée — 2025/2026
